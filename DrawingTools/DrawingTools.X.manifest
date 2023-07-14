@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="DrawingTools" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{4043c68e-6202-48ff-a26b-24f230faab9b}" progid="DrawingTools.StandardAddInServer" threadingModel="Both" name="DrawingTools.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="DrawingTools.dll" hashalg="SHA1"></file>
+
+</assembly>
