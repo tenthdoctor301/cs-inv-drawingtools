@@ -1,0 +1,10 @@
+L:\C Sharp\Inventor\cs-inv-drawingtools\DrawingTools\bin\Debug\DrawingTools.dll
+L:\C Sharp\Inventor\cs-inv-drawingtools\DrawingTools\bin\Debug\DrawingTools.pdb
+L:\C Sharp\Inventor\cs-inv-drawingtools\DrawingTools\bin\Debug\autodesk.inventor.interop.dll
+L:\C Sharp\Inventor\cs-inv-drawingtools\DrawingTools\obj\Debug\DrawingTools.csprojAssemblyReference.cache
+L:\C Sharp\Inventor\cs-inv-drawingtools\DrawingTools\obj\Debug\DrawingTools.csproj.CoreCompileInputs.cache
+L:\C Sharp\Inventor\cs-inv-drawingtools\DrawingTools\obj\Debug\DrawingTools.csproj.CopyComplete
+L:\C Sharp\Inventor\cs-inv-drawingtools\DrawingTools\obj\Debug\DrawingTools.dll
+L:\C Sharp\Inventor\cs-inv-drawingtools\DrawingTools\obj\Debug\DrawingTools.pdb
+L:\C Sharp\Inventor\cs-inv-drawingtools\DrawingTools\obj\Debug\InvAddIn.Properties.Resources.resources
+L:\C Sharp\Inventor\cs-inv-drawingtools\DrawingTools\obj\Debug\DrawingTools.csproj.GenerateResource.cache
