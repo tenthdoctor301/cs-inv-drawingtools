@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS1762: A reference was created to embedded interop assembly 'stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' because of an indirect reference to that assembly created by assembly 'Autodesk.Inventor.Interop, Version=25.0.0.0, Culture=neutral, PublicKeyToken=d84147f8b4276564'. Consider changing the 'Embed Interop Types' property on either assembly.
+dotnet_diagnostic.CS1762.severity = none

@@ -108,6 +108,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <None Include=".editorconfig" />
     <None Include="DrawingTools.X.manifest" />
   </ItemGroup>
   <ItemGroup>
